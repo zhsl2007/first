@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IEConfig", "IEConfig\IEConfig.vcproj", "{EC983168-C494-4F06-87B6-D468C823F421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC983168-C494-4F06-87B6-D468C823F421}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC983168-C494-4F06-87B6-D468C823F421}.Debug|Win32.Build.0 = Debug|Win32
+		{EC983168-C494-4F06-87B6-D468C823F421}.Release|Win32.ActiveCfg = Release|Win32
+		{EC983168-C494-4F06-87B6-D468C823F421}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
